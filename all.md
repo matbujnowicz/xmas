@@ -18,4 +18,4 @@
 
 [kaasp](kaasp.md)
 
-[sdas](sdas.md)
+no timeee ;/xsdad
