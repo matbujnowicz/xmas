@@ -4,18 +4,18 @@
 
 [pum](pum.md) 
 
-xum 
+[xum](xum.md) 
 
-cdd 
+[cdd](cdd.md)
 
-dro
+[dro](dro.md)
 
-sadsd
+[sadsd](sadsd.md)
 
-dd
+[dd](dd.md)
 
-uu
+[uu](uu.md)
 
-kaasp
+[kaasp](kaasp.md)
 
-sdas
+[sdas](sdas.md)
