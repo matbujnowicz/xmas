@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## Gratulacje!
 
-You can use the [editor on GitHub](https://github.com/matbujnowicz/xmas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Jeżeli tu jesteś, to znaczy to że udało Ci się przejść pierwszą część świątecznej łamigówki! 
+
+Ale to jeszcze nie koniec!!! 
+
+![Grinch stealing presents](https://theadamskilt.com/wp-content/uploads/2020/02/grinch-900x506.png)
+
+Twój prezent jest ukryty gdzieś na tej stronie internetowej! Szukaj a znajdziesz!!!
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
